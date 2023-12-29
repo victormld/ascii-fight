@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../TecnoWaraira/projects/odooCayenas"
+		},
+		{
+			"path": "../TecnoWaraira/projects/odoo"
+		},
+		{
+			"path": "../TecnoWaraira/projects/fundayacucho-imagen"
+		}
+	],
+	"settings": {}
+}
